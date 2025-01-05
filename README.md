@@ -71,3 +71,8 @@ Contributions:
 License:
 
 - This project is licensed under the MIT License.
+
+
+The link for ZIP file:
+
+https://drive.google.com/drive/folders/1ZldiE0rIUtWYv-BrOVMBOac3v-ImRQaH
